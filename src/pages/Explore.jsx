@@ -392,4 +392,4 @@ const Explore = () => {
               <Link to={`/detail/?id=${index}`} key={index}>
                 <button
                   onClick={() => showdetail(index)}
-                  className="w-[80px] h-[30px]  border-2 rounded-xl text-white backdrop-blur  cursor-pointer  duration-[0.
+                  className="w-[80px
